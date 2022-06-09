@@ -64,7 +64,7 @@ contract ERC721A is IERC721A {
 
     // Token name
     string private _name;
-
+    
     // Token symbol
     string private _symbol;
 
